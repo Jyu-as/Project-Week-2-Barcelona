@@ -1,12 +1,12 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Birth Rate Data Project
+*[André Santa Clara / Jorge González González]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics / Barcelona Oct 2020]*
 
 ## Content
-- [Project Description](#project-description)
+- [Understand if the birth rate per capita within the different neighborhoods in Barcelona varies](#project-description)
 - [Questions & Hypotheses](#questions-hypotheses)
 - [Dataset](#dataset)
 - [Database](#database)

@@ -1,0 +1,74 @@
+,Neighborhood Code,Year,District Code,District Name,Neighborhood Name,Population
+0,1,2017,1,Ciutat Vella,el Raval,47608
+1,2,2017,1,Ciutat Vella,el Barri Gòtic,16062
+2,3,2017,1,Ciutat Vella,la Barceloneta,14996
+3,4,2017,1,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",22721
+4,5,2017,2,Eixample,el Fort Pienc,32016
+5,6,2017,2,Eixample,la Sagrada Família,51539
+6,7,2017,2,Eixample,la Dreta de l'Eixample,44052
+7,8,2017,2,Eixample,l'Antiga Esquerra de l'Eixample,42284
+8,9,2017,2,Eixample,la Nova Esquerra de l'Eixample,58180
+9,10,2017,2,Eixample,Sant Antoni,38345
+10,11,2017,3,Sants-Montjuïc,el Poble Sec,40228
+11,12,2017,3,Sants-Montjuïc,la Marina del Prat Vermell,1149
+12,13,2017,3,Sants-Montjuïc,la Marina de Port,30584
+13,14,2017,3,Sants-Montjuïc,la Font de la Guatlla,10401
+14,15,2017,3,Sants-Montjuïc,Hostafrancs,15904
+15,16,2017,3,Sants-Montjuïc,la Bordeta,18530
+16,17,2017,3,Sants-Montjuïc,Sants - Badal,23987
+17,18,2017,3,Sants-Montjuïc,Sants,41127
+18,19,2017,4,Les Corts,les Corts,46009
+19,20,2017,4,Les Corts,la Maternitat i Sant Ramon,23948
+20,21,2017,4,Les Corts,Pedralbes,12076
+21,22,2017,5,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",4670
+22,23,2017,5,Sarrià-Sant Gervasi,Sarrià,25032
+23,24,2017,5,Sarrià-Sant Gervasi,les Tres Torres,16667
+24,25,2017,5,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25774
+25,26,2017,5,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,47666
+26,27,2017,5,Sarrià-Sant Gervasi,el Putxet i el Farró,29470
+27,28,2017,6,Gràcia,Vallcarca i els Penitents,15759
+28,29,2017,6,Gràcia,el Coll,7412
+29,30,2017,6,Gràcia,la Salut,13185
+30,31,2017,6,Gràcia,la Vila de Gràcia,50662
+31,32,2017,6,Gràcia,el Camp d'en Grassot i Gràcia Nova,34329
+32,33,2017,7,Horta-Guinardó,el Baix Guinardó,25672
+33,34,2017,7,Horta-Guinardó,Can Baró,8994
+34,35,2017,7,Horta-Guinardó,el Guinardó,36467
+35,36,2017,7,Horta-Guinardó,la Font d'en Fargues,9383
+36,37,2017,7,Horta-Guinardó,el Carmel,31551
+37,38,2017,7,Horta-Guinardó,la Teixonera,11619
+38,39,2017,7,Horta-Guinardó,Sant Genís dels Agudells,6854
+39,40,2017,7,Horta-Guinardó,Montbau,5102
+40,41,2017,7,Horta-Guinardó,la Vall d'Hebron,5784
+41,42,2017,7,Horta-Guinardó,la Clota,610
+42,43,2017,7,Horta-Guinardó,Horta,26715
+43,44,2017,8,Nou Barris,Vilapicina i la Torre Llobeta,25591
+44,45,2017,8,Nou Barris,Porta,25000
+45,46,2017,8,Nou Barris,el Turó de la Peira,15467
+46,47,2017,8,Nou Barris,Can Peguera,2271
+47,48,2017,8,Nou Barris,la Guineueta,15231
+48,49,2017,8,Nou Barris,Canyelles,6856
+49,50,2017,8,Nou Barris,les Roquetes,15590
+50,51,2017,8,Nou Barris,Verdun,12353
+51,52,2017,8,Nou Barris,la Prosperitat,26389
+52,53,2017,8,Nou Barris,la Trinitat Nova,7261
+53,54,2017,8,Nou Barris,Torre Baró,2856
+54,55,2017,8,Nou Barris,Ciutat Meridiana,10342
+55,56,2017,8,Nou Barris,Vallbona,1372
+56,57,2017,9,Sant Andreu,la Trinitat Vella,9983
+57,58,2017,9,Sant Andreu,Baró de Viver,2539
+58,59,2017,9,Sant Andreu,el Bon Pastor,12560
+59,60,2017,9,Sant Andreu,Sant Andreu,57183
+60,61,2017,9,Sant Andreu,la Sagrera,29084
+61,62,2017,9,Sant Andreu,el Congrés i els Indians,14116
+62,63,2017,9,Sant Andreu,Navas,22129
+63,64,2017,10,Sant Martí,el Camp de l'Arpa del Clot,38168
+64,65,2017,10,Sant Martí,el Clot,27039
+65,66,2017,10,Sant Martí,el Parc i la Llacuna del Poblenou,15134
+66,67,2017,10,Sant Martí,la Vila Olímpica del Poblenou,9367
+67,68,2017,10,Sant Martí,el Poblenou,33843
+68,69,2017,10,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,13629
+69,70,2017,10,Sant Martí,el Besòs i el Maresme,23009
+70,71,2017,10,Sant Martí,Provençals del Poblenou,20487
+71,72,2017,10,Sant Martí,Sant Martí de Provençals,26146
+72,73,2017,10,Sant Martí,la Verneda i la Pau,28691

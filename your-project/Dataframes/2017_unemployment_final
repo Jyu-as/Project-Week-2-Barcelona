@@ -1,0 +1,74 @@
+,Neighborhood Name,Year,District Code,District Name,Neighborhood Code,Total Unemployment,Registered unemployed,Unemployment demand
+45,el Raval,2017,1,Ciutat Vella,1,49606,40816.0,8790.0
+30,el Barri Gòtic,2017,1,Ciutat Vella,2,13526,10522.0,3004.0
+48,la Barceloneta,2017,1,Ciutat Vella,3,15966,12085.0,3881.0
+19,"Sant Pere, Santa Caterina i la Ribera",2017,1,Ciutat Vella,4,22002,16696.0,5306.0
+39,el Fort Pienc,2017,2,Eixample,5,19885,15374.0,4511.0
+60,la Sagrada Família,2017,2,Eixample,6,32465,25043.0,7422.0
+51,la Dreta de l'Eixample,2017,2,Eixample,7,20638,16268.0,4370.0
+47,l'Antiga Esquerra de l'Eixample,2017,2,Eixample,8,22710,17924.0,4786.0
+58,la Nova Esquerra de l'Eixample,2017,2,Eixample,9,35304,26860.0,8444.0
+14,Sant Antoni,2017,2,Eixample,10,25305,19466.0,5839.0
+42,el Poble Sec,2017,3,Sants-Montjuïc,11,34720,27689.0,7031.0
+56,la Marina del Prat Vermell,2017,3,Sants-Montjuïc,12,1670,1377.0,293.0
+55,la Marina de Port,2017,3,Sants-Montjuïc,13,25874,21061.0,4813.0
+53,la Font de la Guatlla,2017,3,Sants-Montjuïc,14,8743,6982.0,1761.0
+7,Hostafrancs,2017,3,Sants-Montjuïc,15,11312,8678.0,2634.0
+49,la Bordeta,2017,3,Sants-Montjuïc,16,13279,10187.0,3092.0
+21,Sants - Badal,2017,3,Sants-Montjuïc,17,14260,10827.0,3433.0
+20,Sants,2017,3,Sants-Montjuïc,18,27193,20759.0,6434.0
+70,les Corts,2017,4,Les Corts,19,27912,21246.0,6666.0
+57,la Maternitat i Sant Ramon,2017,4,Les Corts,20,14094,10703.0,3391.0
+10,Pedralbes,2017,4,Les Corts,21,3261,2580.0,681.0
+26,"Vallvidrera, el Tibidabo i les Planes",2017,5,Sarrià-Sant Gervasi,22,1378,1075.0,303.0
+22,Sarrià,2017,5,Sarrià-Sant Gervasi,23,7096,5585.0,1511.0
+72,les Tres Torres,2017,5,Sarrià-Sant Gervasi,24,5344,4172.0,1172.0
+17,Sant Gervasi - la Bonanova,2017,5,Sarrià-Sant Gervasi,25,8753,7041.0,1712.0
+16,Sant Gervasi - Galvany,2017,5,Sarrià-Sant Gervasi,26,16219,12947.0,3272.0
+44,el Putxet i el Farró,2017,5,Sarrià-Sant Gervasi,27,14920,11705.0,3215.0
+25,Vallcarca i els Penitents,2017,6,Gràcia,28,9693,7524.0,2169.0
+37,el Coll,2017,6,Gràcia,29,4068,3145.0,923.0
+62,la Salut,2017,6,Gràcia,30,8208,6319.0,1889.0
+69,la Vila de Gràcia,2017,6,Gràcia,31,31988,25089.0,6899.0
+33,el Camp d'en Grassot i Gràcia Nova,2017,6,Gràcia,32,20806,16050.0,4756.0
+29,el Baix Guinardó,2017,7,Horta-Guinardó,33,16160,12451.0,3709.0
+1,Can Baró,2017,7,Horta-Guinardó,34,5876,4520.0,1356.0
+40,el Guinardó,2017,7,Horta-Guinardó,35,25256,19996.0,5260.0
+52,la Font d'en Fargues,2017,7,Horta-Guinardó,36,7632,6127.0,1505.0
+35,el Carmel,2017,7,Horta-Guinardó,37,26021,20870.0,5151.0
+63,la Teixonera,2017,7,Horta-Guinardó,38,7890,6302.0,1588.0
+15,Sant Genís dels Agudells,2017,7,Horta-Guinardó,39,4767,3801.0,966.0
+8,Montbau,2017,7,Horta-Guinardó,40,3451,2752.0,699.0
+66,la Vall d'Hebron,2017,7,Horta-Guinardó,41,3671,2928.0,743.0
+50,la Clota,2017,7,Horta-Guinardó,42,254,203.0,51.0
+6,Horta,2017,7,Horta-Guinardó,43,21637,17403.0,4234.0
+28,Vilapicina i la Torre Llobeta,2017,8,Nou Barris,44,20117,16134.0,3983.0
+11,Porta,2017,8,Nou Barris,45,19684,15757.0,3927.0
+46,el Turó de la Peira,2017,8,Nou Barris,46,12469,10037.0,2432.0
+2,Can Peguera,2017,8,Nou Barris,47,1745,1408.0,337.0
+54,la Guineueta,2017,8,Nou Barris,48,14311,11581.0,2730.0
+3,Canyelles,2017,8,Nou Barris,49,6980,5648.0,1332.0
+71,les Roquetes,2017,8,Nou Barris,50,15135,12249.0,2886.0
+27,Verdun,2017,8,Nou Barris,51,11605,9391.0,2214.0
+59,la Prosperitat,2017,8,Nou Barris,52,22152,17733.0,4419.0
+64,la Trinitat Nova,2017,8,Nou Barris,53,9514,7908.0,1606.0
+23,Torre Baró,2017,8,Nou Barris,54,2616,2180.0,436.0
+4,Ciutat Meridiana,2017,8,Nou Barris,55,13648,11375.0,2273.0
+24,Vallbona,2017,8,Nou Barris,56,1582,1320.0,262.0
+65,la Trinitat Vella,2017,9,Sant Andreu,57,12645,10538.0,2107.0
+0,Baró de Viver,2017,9,Sant Andreu,58,1887,1486.0,401.0
+32,el Bon Pastor,2017,9,Sant Andreu,59,10712,8434.0,2278.0
+13,Sant Andreu,2017,9,Sant Andreu,60,43324,34114.0,9210.0
+61,la Sagrera,2017,9,Sant Andreu,61,20303,15817.0,4486.0
+38,el Congrés i els Indians,2017,9,Sant Andreu,62,9883,7699.0,2184.0
+9,Navas,2017,9,Sant Andreu,63,15208,11864.0,3344.0
+34,el Camp de l'Arpa del Clot,2017,10,Sant Martí,64,29109,23000.0,6109.0
+36,el Clot,2017,10,Sant Martí,65,19745,15646.0,4099.0
+41,el Parc i la Llacuna del Poblenou,2017,10,Sant Martí,66,9538,7552.0,1986.0
+68,la Vila Olímpica del Poblenou,2017,10,Sant Martí,67,6349,4933.0,1416.0
+43,el Poblenou,2017,10,Sant Martí,68,21836,17007.0,4829.0
+5,Diagonal Mar i el Front Marítim del Poblenou,2017,10,Sant Martí,69,9991,8020.0,1971.0
+31,el Besòs i el Maresme,2017,10,Sant Martí,70,22873,18387.0,4486.0
+12,Provençals del Poblenou,2017,10,Sant Martí,71,15556,12402.0,3154.0
+18,Sant Martí de Provençals,2017,10,Sant Martí,72,21819,17368.0,4451.0
+67,la Verneda i la Pau,2017,10,Sant Martí,73,24715,19672.0,5043.0
